@@ -1,1 +1,2 @@
-To see the final result, please visit https://akishinaca.github.io/EkstraklasaSeasonScheduleStepTwo/ (non responsive)
+Extended table with match results and colours of cells depending of a match score.
+To see the final view, please visit https://akishinaca.github.io/EkstraklasaSeasonSchedule_TableExtended/ (non responsive)
